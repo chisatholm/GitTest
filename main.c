@@ -6,7 +6,7 @@ int main(void)
 for (int i = 0 ; i<11; i++)
   printf("%i\n", i);
 
-  printf("bollocks");
+  printf("more bollocks");
   
   return 0;
 }
