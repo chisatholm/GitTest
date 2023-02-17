@@ -6,7 +6,10 @@ int main(void)
 for (int i = 0 ; i<11; i++)
   printf("%i\n", i);
 
-  printf("more bollocks");
+  printf("bollocks");
+
+  for (int i = 0 ; i<11; i++)
+    {}
   
   return 0;
 }
